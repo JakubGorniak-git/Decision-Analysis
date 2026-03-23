@@ -1,0 +1,16 @@
+id,name,price,year,mileage,power,fuel_consumption, appearance, link
+1,Kia Venga, 32500,2015,82000,125,7.6, 4,https://www.otomoto.pl/osobowe/oferta/kia-venga-ID6HWelO.html
+2, Huinda i20, 36950, 2014, 71200,86,5.1, 7, https://www.otomoto.pl/osobowe/oferta/hyundai-i20-ID6HX5jX.html
+3, BMW 118d, 33800, 2014, 180686, 143, 8, 9 , https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6HHkDK.html
+4, Renault Megane, 37900, 2016, 135000, 100, 7.2, 7, https://www.otomoto.pl/osobowe/oferta/renault-megane-ID6HWcE3.html
+5,Nissan Qashqai, 38700, 2015, 180000, 130, 6.2,6, https://www.otomoto.pl/osobowe/oferta/nissan-qashqai-ID6HXD7a.html
+6, Chevrolet Trax, 34900, 2014, 97500, 140, 7.3,4, https://www.otomoto.pl/osobowe/oferta/chevrolet-trax-ID6HX2Hf.html
+7, MINI Cooper S 60, 49999, 2015, 71000, 192, 7.7, 9,https://www.otomoto.pl/osobowe/oferta/mini-cooper-s-ID6HX78k.html
+8, Toyota Yaris, 41500, 2015, 119000, 100, 5.9, 5,https://www.otomoto.pl/osobowe/oferta/toyota-yaris-ID6HTWCK.html
+9, Seat Ibiza, 30900, 2016, 156000, 90, 6.5,7, https://www.otomoto.pl/osobowe/oferta/seat-ibiza-ID6HXTvY.html
+10, Renault Clio, 34000, 2016, 76270, 90, 5.8,6, https://www.otomoto.pl/osobowe/oferta/renault-clio-ID6HXlax.html
+11, Skoda Fabia, 33700, 2016, 124000, 90, 5.7,6,https://www.otomoto.pl/osobowe/oferta/skoda-fabia-ID6HX7Pl.html
+12, Renault Captur, 41000, 2015, 109400, 120, 6.7 ,8,https://www.otomoto.pl/osobowe/oferta/renault-captur-ID6HPcYH.html
+13, Ford Focus, 35900, 2016, 188000, 150, 7.2,7,https://www.otomoto.pl/osobowe/oferta/ford-focus-ID6HXevR.html
+14, Nissan Juke, 38900, 2015, 89800, 218, 8.9,5, https://www.otomoto.pl/osobowe/oferta/nissan-juke-ID6HW8fq.html
+15, Honda Jazz, 33200, 2014, 100400, 98, 5.4 ,5,https://www.otomoto.pl/osobowe/oferta/honda-jazz-ID6HWFZI.html
