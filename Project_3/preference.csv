@@ -1,6 +1,6 @@
 Criterion,q,p,v,w,type
-Hours_Studied,1,4,15.0,3,gain
+Hours_Studied,1,4,15.0,5,gain
 Attendance,2,8,20.0,4,gain
 Sleep_Hours,0,1,,1,gain
-Previous_Scores,3,10,20.0,5,gain
-Tutoring_Sessions,0,1,,2,gain
+Previous_Scores,3,10,20.0,2,gain
+Tutoring_Sessions,0,1,,3,gain
