@@ -1,3 +1,7 @@
+## Team members:
+#### Michał Pokładowski 160278
+#### Jakub Górniak 160326
+---
 ## **PROMETHEE Analysis**
 
 ### **Preference Information Used as Input**
